@@ -1,0 +1,77 @@
+*{
+
+    font-family: sans-serif;
+}
+
+.devil{
+        position: relative;
+        width: 100;
+        height: 100vh;
+        background:  #f5f5dc;
+}
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: -5px;
+}
+nav ul li{
+        display: inline-block;
+        list-style: none;
+        margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:black ;
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: rgb(38, 0, 255);
+}
+
+.lucifer{
+        margin-left: 8%;
+        margin-top: 5% ;
+}
+
+.lucifer h1{
+    font-size: 50px;
+    color: black;
+    margin-bottom: 20px ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color: rgb(34, 140, 182);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lucifer p{
+    color: rgb(46, 14, 77);
+    line-height: 22px;
+}
+.lucifer a{
+    background: #36454F;
+    padding: 10px 18px;
+    text-decoration: none;
+    color: antiquewhite;
+    display: inline-block;
+    margin:30px 0;
+    border-radius: 5px;
+}
+
+.lucifer a:hover{
+    background-color: rgb(81, 81, 151);
+    
+}
+
+.image a img{
+ width: 50px;
+}  
+
